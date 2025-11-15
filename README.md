@@ -34,7 +34,7 @@ A notebook to validate GPU availability and run small tests in both TensorFlow a
 ## Video Tutorial
 
 A step-by-step screen-recorded tutorial is available here:  
-**→ *(Link will be added in the repository details section)*  
+**→ *https://youtu.be/6HJsw5uAhhg*  
 
 This video demonstrates the entire setup from scratch on an Ubuntu machine, including checks for GPU recognition and correct framework configuration.
 
@@ -43,5 +43,5 @@ This video demonstrates the entire setup from scratch on an Ubuntu machine, incl
 ## Credit
 
 Special thanks to the original GitHub repository where the compilation of commands was referenced and adapted:  
-**→ *(Add repo link here)*
+**→ *https://github.com/mahbub-aumi/tensorflow-2-6-1-Ubuntu-24-04*
 
